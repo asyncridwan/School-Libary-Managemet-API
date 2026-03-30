@@ -46,8 +46,8 @@ A RESTful API for managing a school library system, including books, authors, st
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/asyncridwan/library-api.git
-cd library-api
+git clone https://github.com/asyncridwan/School-Libary-Managemet-API.git
+cd School-Libary-Managemet-API
 
 ## 2.Install Dependencies
 npm install
