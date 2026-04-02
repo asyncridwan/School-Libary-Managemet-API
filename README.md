@@ -94,11 +94,6 @@ JWT_SECRET=your_secret_key_here_change_this
 
 ### 4. Start the Server
 
-**Development mode** (with auto-reload):
-```bash
-npm run dev
-```
-
 **Production mode**:
 ```bash
 node server.js
