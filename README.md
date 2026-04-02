@@ -63,7 +63,18 @@ npm install
 cp .env.example .env
 ```
 
-3. **Update the values** in your `.env` file with your own configuration:
+3. **Edit the `.env` file** with your text editor:
+```bash
+# On Windows with VS Code
+code .env
+
+# Or open with Notepad
+notepad .env
+
+# Or any other text editor
+```
+
+4. **Update the values** in your `.env` file with your own configuration:
 
 ```env
 # Server Configuration
